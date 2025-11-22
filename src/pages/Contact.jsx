@@ -30,13 +30,13 @@ export const Contact = () => {
     {
       icon: <Github className="w-6 h-6" />,
       label: "GitHub",
-      href: "https://github.com/SaiKumarReddy374",
+      href: "https://github.com/nikill04",
       color: "hover:text-gray-900 dark:hover:text-white"
     },
     {
       icon: <Linkedin className="w-6 h-6" />,
       label: "LinkedIn",
-      href: "https://linkedin.com/in/sai-kumar-reddy-541680261/",
+      href: "https://www.linkedin.com/in/nikhilvasireddy04/",
       color: "hover:text-blue-600"
     },
     {
@@ -48,7 +48,7 @@ export const Contact = () => {
     {
       icon: <Mail className="w-6 h-6" />,
       label: "Email",
-      href: "https://mail.google.com/mail/?view=cm&to=saikumarreddypalakolanu6@gmail.com",
+      href: "https://mail.google.com/mail/?view=cm&to=vasireddynikhil04@gmail.com",
       color: "hover:text-red-500"
     }
   ];

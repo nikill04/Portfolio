@@ -26,7 +26,7 @@ export const Navigation = () => {
           <Link to="/" className="flex items-center space-x-2">
             <Code className="w-8 h-8 text-blue-600" />
             <span className="font-bold text-xl text-gray-900 dark:text-white">
-              Sai Kumar Reddy
+              Nikhil Vasireddy
             </span>
           </Link>
 

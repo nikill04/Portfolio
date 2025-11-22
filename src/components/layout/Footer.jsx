@@ -10,7 +10,7 @@ export const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="flex items-center space-x-6 mb-4 md:mb-0">
             <a
-              href="https://github.com/SaiKumarReddy374"
+              href="https://github.com/nikill04"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
@@ -18,7 +18,7 @@ export const Footer = () => {
               <Github className="w-6 h-6" />
             </a>
             <a
-              href="https://linkedin.com/in/sai-kumar-reddy-541680261/"
+              href="https://www.linkedin.com/in/nikhilvasireddy04/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
@@ -26,7 +26,7 @@ export const Footer = () => {
               <Linkedin className="w-6 h-6" />
             </a>
             <a
-              href="https://mail.google.com/mail/?view=cm&to=saikumarreddypalakolanu6@gmail.com"
+              href="https://mail.google.com/mail/?view=cm&to=vasireddynikhil04@gmail.com"
               className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
               target="_blank"
               rel="noopener noreferrer"
@@ -47,7 +47,7 @@ export const Footer = () => {
 
           <div className="text-center md:text-right">
             <p className="text-gray-600 dark:text-gray-400 flex items-center justify-center md:justify-end">
-              Made with <Heart className="w-4 h-4 text-red-500 mx-1" /> by Sai Kumar Reddy
+              Made with <Heart className="w-4 h-4 text-red-500 mx-1" /> by Nikhil Vasireddy
             </p>
             <p className="text-sm text-gray-500 dark:text-gray-500 mt-1">
               © {currentYear} All rights reserved.

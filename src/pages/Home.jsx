@@ -24,7 +24,7 @@ export const Home = () => {
             >
               Hi, I'm{' '}
               <span className="text-blue-600 dark:text-blue-400">
-                Sai Kumar Reddy
+                Nikhil Vasireddy
               </span>
             </motion.h1>
             
@@ -82,7 +82,7 @@ export const Home = () => {
               className="flex space-x-6"
             >
               <a
-                href="https://github.com/SaiKumarReddy374"
+                href="https://github.com/nikill04"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
@@ -90,7 +90,7 @@ export const Home = () => {
                 <Github className="w-6 h-6" />
               </a>
               <a
-                href="https://linkedin.com/in/sai-kumar-reddy-541680261/"
+                href="https://www.linkedin.com/in/nikhilvasireddy04/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
@@ -98,7 +98,7 @@ export const Home = () => {
                 <Linkedin className="w-6 h-6" />
               </a>
               <a
-                href="https://mail.google.com/mail/?view=cm&to=saikumarreddypalakolanu6@gmail.com"
+                href="https://mail.google.com/mail/?view=cm&to=vasireddynikhil04@gmail.com"
                 className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
               >
                 <Mail className="w-6 h-6" />
@@ -127,7 +127,7 @@ export const Home = () => {
                 <div className="absolute inset-8 bg-gradient-to-br from-blue-600 to-purple-700 rounded-full flex items-center justify-center">
                   <img
                     src={myPic}
-                    alt="Sai Kumar Reddy"
+                    alt="Nikhil Vasireddy"
                     className="w-48 h-48 sm:w-56 sm:h-56 rounded-full object-cover border-4 border-white shadow-xl"
                   />
                 </div>
