@@ -24,7 +24,7 @@ export const Home = () => {
             >
               Hi, I'm{' '}
               <span className="text-blue-600 dark:text-blue-400">
-                sai Vasireddy
+                hyndavi Vasireddy
               </span>
             </motion.h1>
             
