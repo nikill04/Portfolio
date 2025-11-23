@@ -7,10 +7,10 @@ import { Card } from '../components/ui/Card';
 export const Resume = () => {
   const experiences = [
     {
-      title: "Full Stack Developer",
-      company: "GDSC Club",
-      period: "2023 - Present",
-      description: "Developed and maintained web applications using the MERN stack."
+      // title: "Full Stack Developer",
+      // company: "GDSC Club",
+      // period: "2023 - Present",
+      // description: "Developed and maintained web applications using the MERN stack."
     }
   ];
 
@@ -20,27 +20,27 @@ export const Resume = () => {
       field: "Computer Science Engineering",
       institution: "Indian Institute of Information Technology(IIIT) Sri City",
       period: "2022 - 2026",
-      grade: "CGPA: 8.32/10"
+      grade: "CGPA: 8.6/10"
     },
     {
       degree: "Class 12 (Intermediate)",
       field: "MPC (Maths, Physics, Chemistry)",
-      institution: "Narayana Junior College",
-      period: "2020 - 2022",
-      grade: "Percentage: 95.7%"
+      institution: "FIITJEE Junior College",
+      period: "2019 - 2021",
+      grade: "Percentage: 94.6%"
     },
     {
       degree: "Class 10 (Secondary School)",
       field: "General",
-      institution: "ViswaBharati E.M School",
-      period: "2019 - 2020",
-      grade: "Percentage: 100%"
+      institution: "Aditya Talent High School",
+      period: "2018 - 2019",
+      grade: "Percentage: 98%"
     }
   ];
 
   const certifications = [
-    "Full Stack Web Development - Udemy",
-    "Node.js Application Development - MongoDB University"
+    // "Full Stack Web Development - Udemy",
+    // "Node.js Application Development - MongoDB University"
   ];
 
   return (
@@ -60,7 +60,7 @@ export const Resume = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://drive.google.com/uc?export=download&id=1cZj_VzR3xRn65Hd4r0FQwdelpZ5x3P9L"
+              href="https://drive.google.com/uc?export=download&id=1yCKI6Dx3lh-mP9F2_-DdJD3tdBLpBz0L"
               className="flex items-center space-x-2"
             >
               <Button>
@@ -69,7 +69,7 @@ export const Resume = () => {
               </Button>
             </a>
             <a
-              href="https://drive.google.com/file/d/1cZj_VzR3xRn65Hd4r0FQwdelpZ5x3P9L/view"
+              href="https://drive.google.com/file/d/1yCKI6Dx3lh-mP9F2_-DdJD3tdBLpBz0L/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-2"
