@@ -45,7 +45,7 @@ export const Home = () => {
               transition={{ duration: 0.8, delay: 0.6 }}
               className="text-lg text-gray-600 dark:text-gray-400 mb-8 max-w-xl"
             >
-              Varun Hemanth
+              Passionate full-stack developer with expertise in modern web technologies. 
               I love building scalable applications and solving complex problems through code.
             </motion.p>
 
