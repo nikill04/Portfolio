@@ -9,19 +9,19 @@ export const Contact = () => {
     {
       icon: <Mail className="w-6 h-6" />,
       label: "Email",
-      value: "saikumarreddypalakolanu6@gmail.com",
-      href: "mailto:saikumarreddy@email.com"
+      value: "vasireddynikhil04@gmail.com",
+      href: "mailto:vasireddynikhil04@gmail.com"
     },
     {
       icon: <Phone className="w-6 h-6" />,
       label: "Phone",
-      value: "+91 9391035897",
-      href: "tel:+919391035897"
+      value: "+91 8099766444",
+      href: "tel:+9180997766444"
     },
     {
       icon: <MapPin className="w-6 h-6" />,
       label: "Location",
-      value: "bengaluru, India",
+      value: "kakinada, India",
       href: null
     }
   ];
