@@ -60,7 +60,7 @@ export const Resume = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://drive.google.com/uc?export=download&id=1yCKI6Dx3lh-mP9F2_-DdJD3tdBLpBz0L"
+              href="https://drive.google.com/uc?export=download&id=1pdLNxWaJ5WfbHETJ8cqrTvQa8sZkINU3"
               className="flex items-center space-x-2"
             >
               <Button>
@@ -69,7 +69,7 @@ export const Resume = () => {
               </Button>
             </a>
             <a
-              href="https://drive.google.com/file/d/1yCKI6Dx3lh-mP9F2_-DdJD3tdBLpBz0L/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1pdLNxWaJ5WfbHETJ8cqrTvQa8sZkINU3/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-2"

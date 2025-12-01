@@ -34,7 +34,7 @@ export const Footer = () => {
               <Mail className="w-6 h-6" />
             </a>
             <a
-              href="https://leetcode.com/u/saireddy06/"
+              href="https://leetcode.com/u/NikhilVasireddy04/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 dark:text-gray-400 hover:text-yellow-500 transition-colors"
